@@ -125,6 +125,10 @@ Evaluated:
 | Units Sold | **1.13M** |
 | Discount Rate | **7.20%** |
 
+## Screenshots attached
+<img width="870" height="571" alt="Screenshot 2026-08-20 221941" src="https://github.com/user-attachments/assets/898beb5f-4149-4510-a3d0-c49b7713fc4a" />
+
+
 ## Key Findings
 
 - **United States** recorded the highest sales at approximately **$25.03M**.
